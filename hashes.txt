@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dreaming Of Us Still
+
+This log tracks the cryptographic history and versioning for the song **Dreaming Of Us Still** (dreaming-of-us-still).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T17:00:22.375803 | `v1` | `315df0446d02dec2093789bbfd96be6509bf24c52f8c7dbb6e6d373a77d17e53` | `4bd548d7baa785a3ab25e375527f229bde2df43a69dd9a6a4a03c5a3dfde297f` | `2026-05-26_dreaming-of-us-still-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

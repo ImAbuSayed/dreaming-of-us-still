@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dreaming-of-us-still/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Dreaming Of Us Still](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-us-still/) |
+| **Get License** | [Commercial Licensing for Dreaming Of Us Still](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-us-still/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `315df0446d02dec2093789bbfd96be6509bf24c52f8c7dbb6e6d373a77d17e53` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
