@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dreaming-of-us-still/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Dreaming Of Us Still](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-us-still/) |
+| **Get License** | [License this song: Dreaming Of Us Still](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-us-still/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The moon is spilling through the open blind
+> I feel your breath against my shoulder blade
+> We leave the city rush so far behind
+> And sink into the heaven we have made
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
